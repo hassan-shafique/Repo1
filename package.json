@@ -1,0 +1,1 @@
+{"scripts":{"prepublish":"node sparseCO.js"}}
